@@ -1,2 +1,2 @@
 # quickplot
-Effortless plot of data using matplotlib.pyplot from e.g. excel or csv files
+Effortless scatterplots using matplotlib.pyplot from e.g. excelfiles
